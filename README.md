@@ -15,14 +15,14 @@ When you build your project it will generate a static version in the build folde
 $ hyhyhy build
 ```
 
-<div align="center">
-  <img src="https://dl.dropboxusercontent.com/u/103345209/Screenshots/Screenshot%202014-12-14%2022.10.20.png"/>
-</div>
-
 ### Serve
 
 Serve your presentation locally.
 
 ```bash
 $ hyhyhy serve
+```
+or
+```bash
+$ hyhyhy build --watch --serve
 ```
